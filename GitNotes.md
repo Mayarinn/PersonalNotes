@@ -14,4 +14,6 @@ git push --force
 
 git config --show-scope --get user.email
 
+git config --show-origin --get user.name
+
 git config user.email "new@email.com"
