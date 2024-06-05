@@ -6,3 +6,4 @@
 ## Further studies
 
 1. Scroll View
+2. Constraints. Priorities and conflicts
