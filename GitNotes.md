@@ -10,4 +10,6 @@ git log
 
 git push
 
+git push --force
+
 git config --show-scope --get user.email
