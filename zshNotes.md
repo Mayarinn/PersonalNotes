@@ -5,3 +5,4 @@
 - `cd folderName` -- change directory to folderName
 - `cd folderPath/folderName` -- change directory according to this path
 - `ls` -- show directory contents
+- `open fileName` -- open the fileName file
