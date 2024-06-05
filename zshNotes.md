@@ -6,3 +6,4 @@
 - `cd folderPath/folderName` -- change directory according to this path
 - `ls` -- show directory contents
 - `open fileName` -- open the fileName file
+- `open .` -- open current directory
