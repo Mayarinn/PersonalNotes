@@ -7,3 +7,5 @@ git commit -m "commit message"
 git restore --staged fileName // unstages fileName file
 
 git log
+
+git push
