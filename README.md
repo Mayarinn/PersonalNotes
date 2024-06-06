@@ -19,4 +19,6 @@
 > git config --show-scope --get user.email
 my-work@email.com
 > git config user.email "my-github@email.com"
+> git config --show-scope --get user.email
+my-github@email.com
 ```
