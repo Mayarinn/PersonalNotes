@@ -15,6 +15,7 @@
 ## Workflow with a new repo
 
 ```
+> cd your/project/directory
 > git init
 > git config --show-scope --get user.email
 my-work@email.com
