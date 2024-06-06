@@ -26,6 +26,8 @@ git config --show-origin --get user.name
 
 git config user.email "new@email.com"
 
+## Working with the Remotes
+
 git remote -v
 
 git remote add NAME URL /* https://repo_url.git */
