@@ -2,6 +2,8 @@
 
 git init /* start a new repo in current directory */
 
+git --help
+
 git status
 
 git stage fileName
