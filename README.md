@@ -16,4 +16,6 @@
 
 ```
 > git init
+> git config --show-scope --get user.email
+my-work@email.com
 ```
