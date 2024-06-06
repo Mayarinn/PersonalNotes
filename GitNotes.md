@@ -1,3 +1,5 @@
+# Git Commands Cheatsheet
+
 git status
 
 git stage fileName
