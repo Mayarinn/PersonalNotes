@@ -1,7 +1,8 @@
 # To Do
 
-1. [*To Do*] Add Markdown Notes
-2. [*In process*] Add Git Notes
+1. [*To Do*] Move To Do list from Storyboards repo here
+2. [*To Do*] Add Markdown Notes
+3. [*In process*] Add Git Notes
 
 ## Further studies
 
