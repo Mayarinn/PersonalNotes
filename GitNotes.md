@@ -1,5 +1,7 @@
 # Git Commands Cheatsheet
 
+git init /* start a new repo in current directory */
+
 git status
 
 git stage fileName
