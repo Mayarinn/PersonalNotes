@@ -15,4 +15,5 @@
 ## Workflow with a new repo
 
 ```
+> git init
 ```
