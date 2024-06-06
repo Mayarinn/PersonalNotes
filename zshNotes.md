@@ -7,3 +7,4 @@
 - `ls` -- show directory contents
 - `open fileName` -- open the fileName file
 - `open .` -- open current directory
+- `echo SomethinG` -- prints "SomethinG" to command line
