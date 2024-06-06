@@ -8,6 +8,8 @@ git stage fileName
 
 git commit -m "commit message"
 
+git reset HEAD~ /* deletes the last commit */
+
 git restore --staged fileName // unstages fileName file
 
 git log
