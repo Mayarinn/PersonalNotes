@@ -29,7 +29,7 @@ my-github@email.com
 >
 > git remote -v
 >
-> git remote add PersonalNotes https://github.com/Mayarinn
+> git remote add PersonalNotes https://github.com/Mayarinn/PersonalNotes.git
 >
 > git remote -v
 PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (fetch)
