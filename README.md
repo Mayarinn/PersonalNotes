@@ -23,4 +23,5 @@ my-work@email.com
 > git config --show-scope --get user.email
 my-github@email.com
 > git remote -v
+> git remote add PersonalNotes https://github.com/Mayarinn
 ```
