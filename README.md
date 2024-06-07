@@ -37,3 +37,5 @@ PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (push)
 >
 > git push --set-upstream PersonalNotes master
 ```
+
+## Starting with a new device
