@@ -16,16 +16,24 @@
 
 ```
 > cd your/project/directory
+>
 > git init
+>
 > git config --show-scope --get user.email
 my-work@email.com
+>
 > git config user.email "my-github@email.com"
+>
 > git config --show-scope --get user.email
 my-github@email.com
+>
 > git remote -v
+>
 > git remote add PersonalNotes https://github.com/Mayarinn
+>
 > git remote -v
 PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (fetch)
 PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (push)
+>
 > git push --set-upstream PersonalNotes master
 ```
