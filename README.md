@@ -27,4 +27,5 @@ my-github@email.com
 > git remote -v
 PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (fetch)
 PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (push)
+> git push --set-upstream PersonalNotes master
 ```
