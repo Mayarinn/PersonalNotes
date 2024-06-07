@@ -22,6 +22,8 @@ git push
 
 git push --force
 
+git push --set-upstream RemoteName BranchName
+
 git config --show-scope --get user.email
 
 git config --show-origin --get user.name
