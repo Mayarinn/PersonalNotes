@@ -39,3 +39,5 @@ PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (push)
 ```
 
 ## Starting with a new device
+
+> Accessing GitHub from CLI requires logging in. You need to use your Google (try; if not -- sammy) email and GitHub Personal Access Token (CLI calls it password!). You store it in PassHub.
