@@ -8,6 +8,8 @@ git status
 
 git branch
 
+git branch branchName /* creates branchName branch */
+
 git stage fileName
 
 git commit -m "commit message"
