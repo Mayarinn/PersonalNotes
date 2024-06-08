@@ -2,6 +2,8 @@
 
 git init /* start a new repo in current directory */
 
+git pull
+
 git --help
 
 git status
