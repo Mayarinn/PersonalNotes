@@ -6,6 +6,8 @@ git --help
 
 git status
 
+git branch
+
 git stage fileName
 
 git commit -m "commit message"
