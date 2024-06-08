@@ -10,6 +10,8 @@ git branch
 
 git branch branchName /* creates branchName branch */
 
+git checkout branchName /* switch to branchName branch */
+
 git stage fileName
 
 git commit -m "commit message"
