@@ -1,6 +1,7 @@
 ## *NotaBene*
 
 1. Do not forget `git pull` changes
+1. **Think twice before using `--force` !!!**
 
 # To Do
 
