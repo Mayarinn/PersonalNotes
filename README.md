@@ -20,6 +20,7 @@
 ## Workflow with a new repo
 
 >> **_Important Notes_**:
+>> 1. Use `git init` inside the inner project folder
 
 ```
 > cd your/project/directory
