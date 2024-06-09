@@ -19,6 +19,8 @@
 
 ## Workflow with a new repo
 
+>> **_Important Notes_**:
+
 ```
 > cd your/project/directory
 >
