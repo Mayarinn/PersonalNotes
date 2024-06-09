@@ -19,6 +19,10 @@
 
 ## Workflow with a new repo
 
+>> **_Important Notes_**:
+>> 1. Use `git init` inside the inner project folder
+>> 2. Do not commit the `project.xcodeproj` and `.DS_Store`
+
 ```
 > cd your/project/directory
 >
