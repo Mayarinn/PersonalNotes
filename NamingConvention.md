@@ -6,3 +6,9 @@
 2. [**???**] What verb forms to use
 
 ## Code Naming Convention
+
+[**???**]
+- upper camel case for objects
+- lower camel case for actions
+
+think about it.
