@@ -30,13 +30,13 @@ git push
 
 git push --force
 
-git push --set-upstream RemoteName BranchName
+### Change Git Configuration (email)
 
-git config --show-scope --get user.email
+`git config --show-scope --get user.email` -- shows the current **LOCAL** email; use inside the working directory
 
-git config --show-origin --get user.name
+`git config --show-origin --get user.name` -- show global settigs (username)
 
-git config user.email "new@email.com"
+`git config user.email "new@email.com"` -- sets the new email
 
 ## Working with the Remotes
 
@@ -45,3 +45,5 @@ git remote -v
 git remote add NAME URL /* https://repo_url.git */
 
 git remote remove NAME
+
+git push --set-upstream RemoteName BranchName
