@@ -30,6 +30,8 @@ git push
 
 git push --force
 
+### Change Git Configuration (email)
+
 git config --show-scope --get user.email
 
 git config --show-origin --get user.name
