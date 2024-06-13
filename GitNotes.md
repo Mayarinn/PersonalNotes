@@ -30,8 +30,6 @@ git push
 
 git push --force
 
-git push --set-upstream RemoteName BranchName
-
 git config --show-scope --get user.email
 
 git config --show-origin --get user.name
@@ -45,3 +43,5 @@ git remote -v
 git remote add NAME URL /* https://repo_url.git */
 
 git remote remove NAME
+
+git push --set-upstream RemoteName BranchName
