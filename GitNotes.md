@@ -32,7 +32,7 @@ git push --force
 
 ### Change Git Configuration (email)
 
-git config --show-scope --get user.email
+`git config --show-scope --get user.email` -- shows the current **LOCAL** email; use inside the working directory
 
 git config --show-origin --get user.name
 
