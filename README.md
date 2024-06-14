@@ -5,7 +5,7 @@
 
 # To Do
 
-1. [*To Do*] Move To Do list from Storyboards repo here
+1. [**Done**] Move To Do list from Storyboards repo here
 2. [*To Do*] Move here Studies plans from Notion and other notes
 3. [*To Do*] Add Markdown Notes
 4. [*In process*] Add Git Notes
