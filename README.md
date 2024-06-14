@@ -47,6 +47,12 @@ my-github@email.com
 PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (fetch)
 PersonalNotes	https://github.com/Mayarinn/PersonalNotes.git (push)
 >
+> git stage (something)
+>
+> git commit -m "Initial commit"
+
+/* You need to commit smth before using push set-upstream */
+
 > git push --set-upstream PersonalNotes master
 ```
 
