@@ -13,3 +13,9 @@
 ##### Header 5
 
 ###### Header 6
+
+---
+
+use 3 "-" or "*" or "_" to drow a separate line
+
+---
