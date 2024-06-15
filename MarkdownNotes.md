@@ -1,5 +1,7 @@
 # Markdown Notes
 
+## Contents
+
 ## Headers
 
 # Header 1
