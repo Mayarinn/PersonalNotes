@@ -15,8 +15,9 @@
 ###### Header 6
 
 ---
+## Separate Line
 
-use 3 "-" or "*" or "_" to drow a separate line
+Use 3 "-" or "*" or "_" to draw a separate line
 
 ---
 
