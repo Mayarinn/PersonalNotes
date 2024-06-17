@@ -52,6 +52,7 @@ Relative reference to a repository [file](./GitNotes.md)
 
 [(reference link)][arbitrary case-insensitive reference text]
 Reference link may be marked with [numbers][1]
+Reference link may use [the text itself]
 
 Text becomes the link itself [https://www.google.com]
 
@@ -67,3 +68,4 @@ text
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org/
 [1]: http://slashdot.org/
+[the text itself]: http://www.reddit.com/
