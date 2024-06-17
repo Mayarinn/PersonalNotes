@@ -47,3 +47,7 @@ Use 3 "-" or "*" or "_" to draw a separate line
 [Inline link](https://www.google.com/)
 
 [Inline link with header](https://www.google.com/ "Google's Homepage")
+
+[(reference link)][arbitrary case-insensitive reference text]
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org/
