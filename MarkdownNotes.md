@@ -4,6 +4,7 @@
 - [Headers](#headers)
 - [Separate Line](#separate-line)
 - [Lists](#lists)
+- [Links](#links)
 
 ## Headers
 
@@ -38,3 +39,35 @@ Use 3 "-" or "*" or "_" to draw a separate line
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
+---
+
+## Link
+
+[Inline link](https://www.google.com/)
+
+[Inline link with header](https://www.google.com/ "Google's Homepage")
+
+Relative reference to a repository [file](./GitNotes.md)
+
+[(reference link)][arbitrary case-insensitive reference text]
+Reference link may be marked with [numbers][1]
+Reference link may use [the text itself]
+
+Text becomes the link itself [https://www.google.com]
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
+
+text
+
+text
+
+text
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org/
+[1]: http://slashdot.org/
+[the text itself]: http://www.reddit.com/
+
+---
