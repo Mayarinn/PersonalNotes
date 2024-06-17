@@ -69,3 +69,5 @@ text
 [arbitrary case-insensitive reference text]: https://www.mozilla.org/
 [1]: http://slashdot.org/
 [the text itself]: http://www.reddit.com/
+
+---
