@@ -7,7 +7,7 @@
 
 1. [**Done**] Move To Do list from Storyboards repo here
 2. [*To Do*] Move here Studies plans from Notion and other notes
-3. [*To Do*] Add Markdown Notes
+3. [*In process*] Add Markdown Notes
 4. [*In process*] Add Git Notes
 5. [*To Do*] Think about naming convention
 
