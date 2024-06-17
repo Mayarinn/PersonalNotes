@@ -54,6 +54,8 @@ Relative reference to a repository [file](./GitNotes.md)
 [(reference link)][arbitrary case-insensitive reference text]
 Reference link may be marked with [numbers][1]
 
+Text becomes the link itself [https://www.google.com]
+
 text
 
 text
