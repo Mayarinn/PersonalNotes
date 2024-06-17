@@ -42,4 +42,6 @@ Use 3 "-" or "*" or "_" to draw a separate line
 
 ---
 
-## Links
+## Link
+
+[Inline link](https://www.google.com/)
