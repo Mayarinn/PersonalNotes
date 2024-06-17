@@ -48,6 +48,9 @@ Use 3 "-" or "*" or "_" to draw a separate line
 
 [Inline link with header](https://www.google.com/ "Google's Homepage")
 
+
+Relative reference to a repository [file](./GitNotes.md)
+
 [(reference link)][arbitrary case-insensitive reference text]
 Reference link may be marked with [numbers][1]
 
