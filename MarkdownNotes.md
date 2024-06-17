@@ -50,4 +50,10 @@ Use 3 "-" or "*" or "_" to draw a separate line
 
 [(reference link)][arbitrary case-insensitive reference text]
 
+text
+
+text
+
+text
+
 [arbitrary case-insensitive reference text]: https://www.mozilla.org/
