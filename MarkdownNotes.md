@@ -49,6 +49,7 @@ Use 3 "-" or "*" or "_" to draw a separate line
 [Inline link with header](https://www.google.com/ "Google's Homepage")
 
 [(reference link)][arbitrary case-insensitive reference text]
+Reference link may be marked with [numbers][1]
 
 text
 
@@ -57,3 +58,4 @@ text
 text
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org/
+[1]: http://slashdot.org/
