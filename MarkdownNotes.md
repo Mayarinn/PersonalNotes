@@ -45,3 +45,5 @@ Use 3 "-" or "*" or "_" to draw a separate line
 ## Link
 
 [Inline link](https://www.google.com/)
+
+[Inline link with header](https://www.google.com/ "Google's Homepage")
