@@ -3,6 +3,7 @@
 ## Contents
 - [Headers](#headers)
 - [Separate Line](#separate-line)
+- [Emphasis](#emphasis)
 - [Lists](#lists)
 - [Links](#links)
 
@@ -27,6 +28,20 @@ Use 3 "-" or "*" or "_" to draw a separate line
 
 ---
 
+## Emphasis
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+`One line code`
+
+---
+
 ## Lists
 
 1. First ordered list item
@@ -42,7 +57,7 @@ Use 3 "-" or "*" or "_" to draw a separate line
 
 ---
 
-## Link
+## Links
 
 [Inline link](https://www.google.com/)
 
