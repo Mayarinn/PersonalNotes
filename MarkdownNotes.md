@@ -99,4 +99,6 @@ Reference-style: ![alt text: GitHub logo][logo]
 
 Alt text is shown during image loading errors
 
+![Local image](./Images/GithubLogo.png)
+
 ---
