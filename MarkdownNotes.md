@@ -91,4 +91,8 @@ text
 
 Inline-style image: ![alt text: GitHub logo](https://civic.io/wp-content/uploads/2013/03/github.png?w=256&h=256 'Logo Title-1')
 
+Reference-style: ![alt text: GitHub logo][logo]
+
+[logo]: https://civic.io/wp-content/uploads/2013/03/github.png?w=256&h=256 'Logo Title-2'
+
 ---
