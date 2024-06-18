@@ -29,6 +29,8 @@ Use 3 "-" or "*" or "_" to draw a separate line
 
 ## Emphasis
 
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
 ---
 
 ## Lists
