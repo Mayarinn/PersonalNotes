@@ -6,6 +6,7 @@
 - [Emphasis](#emphasis)
 - [Lists](#lists)
 - [Links](#links)
+- [Images](#images)
 
 ## Headers
 
@@ -84,5 +85,26 @@ text
 [arbitrary case-insensitive reference text]: https://www.mozilla.org/
 [1]: http://slashdot.org/
 [the text itself]: http://www.reddit.com/
+
+---
+
+## Images
+
+Hover images to see titles
+
+Inline-style image: ![alt text: GitHub logo](https://civic.io/wp-content/uploads/2013/03/github.png?w=100&h= 'Logo Title-1')
+
+Reference-style: ![alt text: GitHub logo][logo]
+
+[logo]: https://civic.io/wp-content/uploads/2013/03/github.png?w=100&h= 'Logo Title-2'
+
+Alt text is shown during image loading errors
+
+You may use images from your local storage with its paths
+
+- ./ -- current directory
+- ../ -- parent directory
+
+![Local image](./Images/GithubLogo.png)
 
 ---
