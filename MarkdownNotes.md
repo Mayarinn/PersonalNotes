@@ -31,6 +31,8 @@ Use 3 "-" or "*" or "_" to draw a separate line
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
 ---
 
 ## Lists
