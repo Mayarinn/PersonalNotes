@@ -6,6 +6,7 @@
 - [Emphasis](#emphasis)
 - [Lists](#lists)
 - [Links](#links)
+- [Images](#images)
 
 ## Headers
 
