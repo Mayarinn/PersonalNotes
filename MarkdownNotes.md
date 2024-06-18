@@ -37,6 +37,8 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+`One line code`
+
 ---
 
 ## Lists
