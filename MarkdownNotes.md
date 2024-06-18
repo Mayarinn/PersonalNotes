@@ -3,6 +3,7 @@
 ## Contents
 - [Headers](#headers)
 - [Separate Line](#separate-line)
+- [Emphasis](#emphasis)
 - [Lists](#lists)
 - [Links](#links)
 
