@@ -101,6 +101,9 @@ Alt text is shown during image loading errors
 
 You may use images from your local storage with its paths
 
+- ./ -- current directory
+- ../ -- parent directory
+
 ![Local image](./Images/GithubLogo.png)
 
 ---
