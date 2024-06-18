@@ -27,6 +27,10 @@ Use 3 "-" or "*" or "_" to draw a separate line
 
 ---
 
+## Emphasis
+
+---
+
 ## Lists
 
 1. First ordered list item
