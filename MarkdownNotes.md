@@ -112,4 +112,6 @@ You may use images from your local storage with its paths
 
 ## Code
 
+`One-line code blocks`
+
 ---
