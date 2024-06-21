@@ -114,4 +114,12 @@ You may use images from your local storage with its paths
 
 `One-line code blocks`
 
+Multiple-line code:
+
+```
+while true {
+    printf("Hello, world");
+}
+```
+
 ---
