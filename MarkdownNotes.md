@@ -7,6 +7,7 @@
 - [Lists](#lists)
 - [Links](#links)
 - [Images](#images)
+- [Code](#code)
 
 ## Headers
 
@@ -106,5 +107,26 @@ You may use images from your local storage with its paths
 - ../ -- parent directory
 
 ![Local image](./Images/GithubLogo.png)
+
+---
+
+## Code
+
+`One-line code blocks`
+
+Multiple-line code:
+
+```
+while true {
+    printf("Hello, world");
+}
+```
+
+You may note language to use syntax highlighting
+
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 ---
