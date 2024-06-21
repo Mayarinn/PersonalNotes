@@ -7,6 +7,7 @@
 - [Lists](#lists)
 - [Links](#links)
 - [Images](#images)
+- [Code](#code)
 
 ## Headers
 
