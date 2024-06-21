@@ -122,4 +122,11 @@ while true {
 }
 ```
 
+You may note language to use syntax highlighting
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 ---
