@@ -134,4 +134,8 @@ print s
 
 ## Tables
 
+|This|is |Table Heading|
+|--- |---|---          |
+|This|is |simple table |
+
 ---
