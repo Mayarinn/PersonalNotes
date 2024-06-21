@@ -8,6 +8,7 @@
 - [Links](#links)
 - [Images](#images)
 - [Code](#code)
+- [Tables](#tables)
 
 ## Headers
 
@@ -128,5 +129,28 @@ You may note language to use syntax highlighting
 s = "Python syntax highlighting"
 print s
 ```
+
+---
+
+## Tables
+
+|Cloumn 1 Header|Cloumn 2 Header |Cloumn 3 Header|
+|--------------:|:---------------|:-------------:|
+|This           |is a            |simple table   |
+|This           |is table        |second row     |
+|This           |is table        |third row      | 
+
+1. There must be at least 3 dashes (-) separating each column header cell
+2. Outer pipes (|) are optional
+3. Colon is used for text alignment 
+    1. use :--- for left-aligned
+    2. :---: for centred
+    3. and ---: for right-aligned
+4. You may use inline Markdown
+
+Markdown | Less | Pretty
+---: | :---: | :---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 ---
