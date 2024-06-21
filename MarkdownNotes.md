@@ -134,8 +134,8 @@ print s
 
 ## Tables
 
-|This|is |Table Heading|
-|--- |---|---          |
-|This|is |simple table |
+|Cloumn 1 Header|Cloumn 2 Header |Cloumn 3 Header|
+|--------------:|:---------------|:-------------:|
+|This           |is a            |simple table   |
 
 ---
