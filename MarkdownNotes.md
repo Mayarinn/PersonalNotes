@@ -148,4 +148,9 @@ print s
     3. and ---: for right-aligned
 4. You may use inline Markdown
 
+Markdown | Less | Pretty
+---: | :---: | :---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 ---
