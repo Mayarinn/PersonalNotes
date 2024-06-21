@@ -137,5 +137,7 @@ print s
 |Cloumn 1 Header|Cloumn 2 Header |Cloumn 3 Header|
 |--------------:|:---------------|:-------------:|
 |This           |is a            |simple table   |
+|This           |is table        |second row     |
+|This           |is table        |third row      | 
 
 ---
