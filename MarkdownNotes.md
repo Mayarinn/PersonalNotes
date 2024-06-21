@@ -8,6 +8,7 @@
 - [Links](#links)
 - [Images](#images)
 - [Code](#code)
+- [Tables](#tables)
 
 ## Headers
 
