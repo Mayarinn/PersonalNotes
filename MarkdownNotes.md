@@ -158,7 +158,7 @@ Markdown | Less | Pretty
 
 ## Blockquotes
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris interdum libero id quam iaculis ullamcorper. Aliquam erat volutpat. Proin enim magna, semper ut lacinia in, elementum vel sapien. Quisque augue tellus, aliquet sed magna sed, laoreet condimentum sapien. Nulla odio ipsum, congue non risus a, finibus dignissim tellus. Mauris sodales lorem et ex mollis interdum. Curabitur dui turpis, malesuada et aliquet vel, malesuada vel neque. Etiam non mi viverra, vestibulum nulla sit amet, dictum ligula.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris interdum libero id quam iaculis ullamcorper. Aliquam erat volutpat. Proin enim magna, semper ut lacinia in, elementum vel sapien. Quisque augue tellus, aliquet sed magna sed, laoreet condimentum sapien. Nulla odio ipsum, congue non risus a, finibus dignissim tellus.
 
 >> Etiam sit amet lectus orci. Proin luctus lorem ex. Nulla sollicitudin semper lorem, id tristique nulla tempus ut. Vivamus rhoncus augue eget lacinia tempor. Pellentesque dui quam, commodo ut metus congue, semper sollicitudin dui. Aliquam maximus sagittis consequat. Donec id erat eu urna volutpat vulputate.
 
