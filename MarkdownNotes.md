@@ -9,6 +9,7 @@
 - [Images](#images)
 - [Code](#code)
 - [Tables](#tables)
+- [Blockquotes](#blockquotes)
 
 ## Headers
 
@@ -152,5 +153,15 @@ Markdown | Less | Pretty
 ---: | :---: | :---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+---
+
+## Blockquotes
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris interdum libero id quam iaculis ullamcorper. Aliquam erat volutpat. Proin enim magna, semper ut lacinia in, elementum vel sapien. Quisque augue tellus, aliquet sed magna sed, laoreet condimentum sapien. Nulla odio ipsum, congue non risus a, finibus dignissim tellus.
+
+>> Etiam sit amet lectus orci. Proin luctus lorem ex. Nulla sollicitudin semper lorem, id tristique nulla tempus ut. Vivamus rhoncus augue eget lacinia tempor. Pellentesque dui quam, commodo ut metus congue, semper sollicitudin dui. Aliquam maximus sagittis consequat. Donec id erat eu urna volutpat vulputate.
+
+>>> Fusce lobortis ex enim, at scelerisque erat suscipit eu. Proin eget lacinia metus. Praesent in nisi vitae mauris commodo semper. Aenean sodales lectus sed mauris luctus porttitor. Mauris bibendum mi in bibendum tincidunt. Sed nec dolor eros. Etiam ullamcorper diam vel nunc aliquam tristique.
 
 ---
