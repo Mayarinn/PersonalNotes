@@ -9,6 +9,7 @@
 - [Images](#images)
 - [Code](#code)
 - [Tables](#tables)
+- [Blockquotes](#blockquotes)
 
 ## Headers
 
