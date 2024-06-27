@@ -41,6 +41,7 @@ git push --force
 `git config user.email "new@email.com"` -- sets new **local** email
 
 $ git config --global user.name "Susan Foreman"
+$ git config --global user.email "susan@guess.who"
 
 ## Working with the Remotes
 
