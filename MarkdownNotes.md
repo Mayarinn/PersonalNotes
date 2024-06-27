@@ -10,6 +10,7 @@
 - [Code](#code)
 - [Tables](#tables)
 - [Blockquotes](#blockquotes)
+- [Inline HTML](#inline-html)
 
 ## Headers
 
@@ -163,5 +164,19 @@ Markdown | Less | Pretty
 >> Etiam sit amet lectus orci. Proin luctus lorem ex. Nulla sollicitudin semper lorem, id tristique nulla tempus ut. Vivamus rhoncus augue eget lacinia tempor. Pellentesque dui quam, commodo ut metus congue, semper sollicitudin dui. Aliquam maximus sagittis consequat. Donec id erat eu urna volutpat vulputate.
 
 >>> Fusce lobortis ex enim, at scelerisque erat suscipit eu. Proin eget lacinia metus. Praesent in nisi vitae mauris commodo semper. Aenean sodales lectus sed mauris luctus porttitor. Mauris bibendum mi in bibendum tincidunt. Sed nec dolor eros. Etiam ullamcorper diam vel nunc aliquam tristique.
+
+---
+
+## Inline HTML
+
+```html
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+```
 
 ---
