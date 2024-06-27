@@ -8,3 +8,4 @@
 - `open fileName` -- open the fileName file
 - `open .` -- open current directory
 - `echo SomethinG` -- prints "SomethinG" to command line
+- `pwd` -- prints current working directory
