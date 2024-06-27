@@ -38,7 +38,7 @@ git push --force
 
 `git config user.name "Susan Foreman"` -- sets **local** username
 
-`git config user.email "new@email.com"` -- sets the new email
+`git config user.email "new@email.com"` -- sets new **local** email
 
 ## Working with the Remotes
 
