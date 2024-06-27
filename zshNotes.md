@@ -12,3 +12,5 @@
 - `whoami` -- prints current user's username
 
 - `which command-name` -- (have i ever used?) shows the location of command-name executable (commands and scenaries)
+
+- To use spaces inside the directory name use quotes and backslash "Directory\ name"
