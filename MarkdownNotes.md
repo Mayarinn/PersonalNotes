@@ -10,6 +10,7 @@
 - [Code](#code)
 - [Tables](#tables)
 - [Blockquotes](#blockquotes)
+- [Inline HTML](#inline-html)
 
 ## Headers
 
