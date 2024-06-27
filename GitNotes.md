@@ -40,6 +40,8 @@ git push --force
 
 `git config user.email "new@email.com"` -- sets new **local** email
 
+To change global configuration you need to add `--global` command:
+
 ```sh
 $ git config --global user.name "Susan Foreman"
 $ git config --global user.email "susan@guess.who"
