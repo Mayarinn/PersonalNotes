@@ -169,6 +169,7 @@ Markdown | Less | Pretty
 
 ## Inline HTML
 
+```html
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
@@ -176,5 +177,6 @@ Markdown | Less | Pretty
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+```
 
 ---
