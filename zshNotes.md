@@ -9,3 +9,4 @@
 - `open .` -- open current directory
 - `echo SomethinG` -- prints "SomethinG" to command line
 - `pwd` -- prints current working directory
+- `whoami` -- prints current user's username
