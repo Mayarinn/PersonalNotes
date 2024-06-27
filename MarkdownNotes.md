@@ -165,3 +165,7 @@ Markdown | Less | Pretty
 >>> Fusce lobortis ex enim, at scelerisque erat suscipit eu. Proin eget lacinia metus. Praesent in nisi vitae mauris commodo semper. Aenean sodales lectus sed mauris luctus porttitor. Mauris bibendum mi in bibendum tincidunt. Sed nec dolor eros. Etiam ullamcorper diam vel nunc aliquam tristique.
 
 ---
+
+## Inline HTML
+
+---
