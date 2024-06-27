@@ -36,7 +36,16 @@ git push --force
 
 `git config --show-origin --get user.name` -- show global settigs (username)
 
-`git config user.email "new@email.com"` -- sets the new email
+`git config user.name "Susan Foreman"` -- sets **local** username
+
+`git config user.email "new@email.com"` -- sets new **local** email
+
+To change global configuration you need to add `--global` command:
+
+```sh
+$ git config --global user.name "Susan Foreman"
+$ git config --global user.email "susan@guess.who"
+```
 
 ## Working with the Remotes
 
