@@ -10,3 +10,5 @@
 - `echo SomethinG` -- prints "SomethinG" to command line
 - `pwd` -- prints current working directory
 - `whoami` -- prints current user's username
+
+- `which command-name` -- (have i ever used?) shows the location of command-name executable (commands and scenaries)
