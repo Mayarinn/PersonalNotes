@@ -49,6 +49,8 @@ $ git config --global user.email "susan@guess.who"
 
 ## Working with the Remotes
 
+git clone --recursive "https://github.com/Mayarinn/PersonalNotes.git" folderName
+
 git remote -v
 
 git remote add NAME URL /* https://repo_url.git */
