@@ -51,6 +51,8 @@ $ git config --global user.email "susan@guess.who"
 
 git clone --recursive "https://github.com/Mayarinn/PersonalNotes.git" folderName
 
+> Using 'recursive' is optional - required when project uses other dependencies. You may also use SSH instead of URL while cloning
+
 git remote -v
 
 git remote add NAME URL /* https://repo_url.git */
