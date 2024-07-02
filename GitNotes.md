@@ -60,3 +60,5 @@ git remote add NAME URL /* https://repo_url.git */
 git remote remove NAME
 
 git push --set-upstream RemoteName BranchName
+
+## Stashing Changes
