@@ -62,3 +62,5 @@ git remote remove NAME
 git push --set-upstream RemoteName BranchName
 
 ## Stashing Changes
+
+- `git stash` - hides applied changes
