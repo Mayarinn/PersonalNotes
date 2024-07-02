@@ -67,3 +67,4 @@ git push --set-upstream RemoteName BranchName
 - `git stash list` - prints hidden changes list
 - `git stash apply` - applies the latest change
 - - `git stash apply stash@{0}` - applies change with index {0}
+- `git stash pop` - applies the latest change AND removes it from changes list (preferably)
