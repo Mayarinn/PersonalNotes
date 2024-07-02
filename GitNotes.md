@@ -60,3 +60,14 @@ git remote add NAME URL /* https://repo_url.git */
 git remote remove NAME
 
 git push --set-upstream RemoteName BranchName
+
+## Stashing Changes
+
+- `git stash` - hides applied changes
+- `git stash list` - prints hidden changes list
+- `git stash apply` - applies the latest change
+- - `git stash apply stash@{0}` - applies change with index {0}
+- `git stash pop` - applies the latest change AND removes it from changes list (preferably)
+- - `git stash pop stash@{0}` - applies change with index {0} AND removes it from changes list 
+- `git stash drop` - removes latest change from the list
+- - `git stash drop stash@{0}` - removes change with index {0} from the list
