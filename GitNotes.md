@@ -71,3 +71,22 @@ git push --set-upstream RemoteName BranchName
 - - `git stash pop stash@{0}` - applies change with index {0} AND removes it from changes list 
 - `git stash drop` - removes latest change from the list
 - - `git stash drop stash@{0}` - removes change with index {0} from the list
+
+## Cleaning Working Directory
+
+- `git clean -n` - shows what would be removed
+- `git clean -f` - force removal
+- `git clean - d` - remove directory
+- `git clean -x` - remove ignored files, too
+- `git clean -X` - remove only ignored files
+- `git clean -e <pattern>` - removal excluding `<pattern>` pattern
+- `git clean -i` - interactive cleaning:
+```
+$ git clean -x -i
+Would remove the following items:
+  build.TMP  test.o
+*** Commands ***
+    1: clean                2: filter by pattern    3: select by numbers    4: ask each             5: quit
+    6: help
+What now>
+```
