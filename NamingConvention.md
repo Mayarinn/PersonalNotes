@@ -8,7 +8,8 @@
 ## Code Naming Convention
 
 [**???**]
-- upper camel case for objects
+- upper camel case for classes
+- - lower camel case for variables, constants, class instances
 - lower camel case for actions
 
 think about it.
