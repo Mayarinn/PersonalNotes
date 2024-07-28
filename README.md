@@ -9,6 +9,10 @@
 2. [**Done**] Storyboards [video](https://www.youtube.com/watch?v=EYx3Hxs88zE&ab_channel=%D0%92%D0%BE%D0%B9%D1%82%D0%B8%D0%B2IT)
 3. [**Done**] UIKit [video](https://www.youtube.com/watch?v=oGubB_dYoVA&ab_channel=%D0%92%D0%BE%D0%B9%D1%82%D0%B8%D0%B2IT)
 4. SwiftUI [video](https://www.youtube.com/watch?v=iQk4DV1ki3k&ab_channel=%D0%92%D0%BE%D0%B9%D1%82%D0%B8%D0%B2IT)
+5. [LearnQuest iOS Specialization](Specialization)
+- 1. [Introduction to Programming in Swift 5](https://www.coursera.org/learn/swift-5-programming-introduction?specialization=swift-5-ios-app-developer)
+- 2. [Introduction to iOS App Development with Swift 5](https://www.coursera.org/learn/ios-app-development-swift-5?specialization=swift-5-ios-app-developer)
+- 3. [Tables, Data & Networking in iOS](https://www.coursera.org/learn/swift-ios-tables-networking?specialization=swift-5-ios-app-developer)
 
 
 ## Workflow with a new repo
