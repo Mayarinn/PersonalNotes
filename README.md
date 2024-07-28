@@ -3,14 +3,6 @@
 1. Do not forget `git pull` changes
 1. **Think twice before using `--force` !!!**
 
-# To Do
-
-1. [**Done**] Move To Do list from Storyboards repo here
-2. [*To Do*] Move here Studies plans from Notion and other notes
-3. [**Done**] Add Markdown Notes
-4. [*In process*] Add Git Notes
-5. [*To Do*] Think about naming convention
-
 ## Further studies
 
 1. Constraints. Priorities and conflicts
