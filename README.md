@@ -18,6 +18,9 @@
 - 1. [Introduction to Programming in Swift 5](https://www.coursera.org/learn/swift-5-programming-introduction?specialization=swift-5-ios-app-developer)
 - 2. [Introduction to iOS App Development with Swift 5](https://www.coursera.org/learn/ios-app-development-swift-5?specialization=swift-5-ios-app-developer)
 - 3. [Tables, Data & Networking in iOS](https://www.coursera.org/learn/swift-ios-tables-networking?specialization=swift-5-ios-app-developer)
+2. [Meta Programming Fundamentals in Swift](https://www.coursera.org/learn/programming-fundamentals-swift)
+- 1. from spezialization [Meta iOS Developer](https://www.coursera.org/professional-certificates/meta-ios-developer)
+- 2. spezialization [first course](https://www.coursera.org/learn/introduction-to-ios-mobile-application-development)
 
 
 ## Workflow with a new repo
