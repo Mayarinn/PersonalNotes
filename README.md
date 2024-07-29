@@ -9,10 +9,30 @@
 2. [**Done**] Storyboards [video](https://www.youtube.com/watch?v=EYx3Hxs88zE&ab_channel=%D0%92%D0%BE%D0%B9%D1%82%D0%B8%D0%B2IT)
 3. [**Done**] UIKit [video](https://www.youtube.com/watch?v=oGubB_dYoVA&ab_channel=%D0%92%D0%BE%D0%B9%D1%82%D0%B8%D0%B2IT)
 4. SwiftUI [video](https://www.youtube.com/watch?v=iQk4DV1ki3k&ab_channel=%D0%92%D0%BE%D0%B9%D1%82%D0%B8%D0%B2IT)
-5. [LearnQuest iOS Specialization](Specialization)
+5. XCode Crash Course
+6. [Swiftbook Swift for Beginers](https://www.youtube.com/playlist?list=PLtovLaW_R9-N-KECYTUWqQaVtBXhufJfw) 
+
+### Coursera courses
+
+1. [LearnQuest iOS Specialization](Specialization)
 - 1. [Introduction to Programming in Swift 5](https://www.coursera.org/learn/swift-5-programming-introduction?specialization=swift-5-ios-app-developer)
 - 2. [Introduction to iOS App Development with Swift 5](https://www.coursera.org/learn/ios-app-development-swift-5?specialization=swift-5-ios-app-developer)
 - 3. [Tables, Data & Networking in iOS](https://www.coursera.org/learn/swift-ios-tables-networking?specialization=swift-5-ios-app-developer)
+2. [MFTI Introduction to iOS Development](https://www.coursera.org/learn/ios-razrabotka-na-swift/)
+3. [Meta Programming Fundamentals in Swift](https://www.coursera.org/learn/programming-fundamentals-swift)
+- 1. from spezialization [Meta iOS Developer](https://www.coursera.org/professional-certificates/meta-ios-developer)
+- 2. spezialization [first course](https://www.coursera.org/learn/introduction-to-ios-mobile-application-development)
+
+### Unsorted studies
+
+1. Unix (Linux)
+2. Algorithms (MIT lectures)
+3. Cryptography
+4. Git, GitLab
+5. MVC
+6. Frameworks, CocoaPods
+7. Objective-C
+8. Python
 
 
 ## Workflow with a new repo
