@@ -12,7 +12,9 @@
 5. XCode Crash Course
 6. [Swiftbook Swift for Beginers](https://www.youtube.com/playlist?list=PLtovLaW_R9-N-KECYTUWqQaVtBXhufJfw) 
 
-5. [LearnQuest iOS Specialization](Specialization)
+### Coursera courses
+
+1. [LearnQuest iOS Specialization](Specialization)
 - 1. [Introduction to Programming in Swift 5](https://www.coursera.org/learn/swift-5-programming-introduction?specialization=swift-5-ios-app-developer)
 - 2. [Introduction to iOS App Development with Swift 5](https://www.coursera.org/learn/ios-app-development-swift-5?specialization=swift-5-ios-app-developer)
 - 3. [Tables, Data & Networking in iOS](https://www.coursera.org/learn/swift-ios-tables-networking?specialization=swift-5-ios-app-developer)
