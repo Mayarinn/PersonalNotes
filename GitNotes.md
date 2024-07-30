@@ -92,3 +92,7 @@ What now>
 ```
 
 ## Software Update
+
+- `softwareupdate --list` -- list of outdated software
+- `softwareupdate --install --all` -- update all outdated software
+- `softwareupdate --install productName` -- update the software you named
