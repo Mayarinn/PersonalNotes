@@ -20,6 +20,8 @@ git commit -m "commit message"
 
 git reset HEAD~ /* deletes the last commit */
 
+git reset <commitHash> /* deletes all after `<commitHash>` commit. `<commitHash>` commit stays the last one */
+
 git checkout fileName /* resets fileName file changes according to the last commit */
 
 git restore --staged fileName // unstages fileName file
