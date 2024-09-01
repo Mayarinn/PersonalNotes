@@ -2,6 +2,7 @@
 
 1. Do not forget `git pull` changes
 1. **Think twice before using `--force` !!!**
+1. Command + Option + Esc ~ Ctrl + Alt + Del 
 
 ## Further studies
 
