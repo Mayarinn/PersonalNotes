@@ -12,3 +12,5 @@
 4. fatal error (always returns 'Never' -- used to stop execution with fatal error)
 ![fatal error syntax](./Images/fatalerror-syntax.png)
 ![fatal error example](./Images/fatalerror-example.png)
+
+## Shell Commands
