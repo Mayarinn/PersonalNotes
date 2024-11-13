@@ -23,3 +23,6 @@
     - `-o` - one-shot. Breakpoint would be deleted after the first use
     - `-f File.swift` - File where breakpoint would be set
     - `-l 44` - line to set BP
+
+## Breakpoints
+    
