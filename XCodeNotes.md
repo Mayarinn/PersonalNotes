@@ -14,3 +14,6 @@
 ![fatal error example](./Images/fatalerror-example.png)
 
 ## Shell Commands
+
+1. `po $arg1` -- shows the error text without garbage (po == print object)
+2. `watchpoint set variable VariableName` -- sets watching variable. Same is `w s v VariableName`
