@@ -17,3 +17,9 @@
 
 1. `po $arg1` -- shows the error text without garbage (po == print object)
 2. `watchpoint set variable VariableName` -- sets watching variable. Same is `w s v VariableName`
+3. `bp s -o -f File.swift -l 44` -- sets a break point
+    - `bp` - breakpoint
+    - `s` - set
+    - `-o` - one-shot. Breakpoint would be deleted after the first use
+    - `-f File.swift` - File where breakpoint would be set
+    - `-l 44` - line to set BP
