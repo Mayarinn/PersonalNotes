@@ -9,3 +9,6 @@
 3. precondition -- similar to assert, but also works during user in use (helpful if needed to stop executing program because of an error happened)
 ![precondition syntax](./Images/precondition-syntax.png)
 ![precondition example](./Images/precondition-example.png)
+4. fatal error (always returns 'Never' -- used to stop execution with fatal error)
+![fatal error syntax](./Images/fatalerror-syntax.png)
+![fatal error example](./Images/fatalerror-example.png)
