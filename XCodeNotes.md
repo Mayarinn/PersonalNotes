@@ -9,9 +9,11 @@
 3. precondition -- similar to assert, but also works during user in use (helpful if needed to stop executing program because of an error happened)
 ![precondition syntax](./Images/precondition-syntax.png)
 ![precondition example](./Images/precondition-example.png)
-4. fatal error (always returns 'Never' -- used to stop execution with fatal error)
+4. fatal error
 ![fatal error syntax](./Images/fatalerror-syntax.png)
 ![fatal error example](./Images/fatalerror-example.png)
+Always returns 'Never' -- used to stop execution with fatal error. Fatal error definition:
+![Fatal Error definition](./Images/fatalerror-definition.png)
 
 ## Shell Commands
 
@@ -25,4 +27,3 @@
     - `-l 44` - line to set BP
 
 ## Breakpoints
-    
