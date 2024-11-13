@@ -27,3 +27,14 @@ Always returns 'Never' -- used to stop execution with fatal error. Fatal error d
     - `-l 44` - line to set BP
 
 ## Breakpoints
+
+1. Set a breakpoint at code (green flag on the left)
+2. Open Breakpoints view in Navigator
+3. Right-click on a breakpoint > Edit breakpoint
+![Edit breakpoint](./Images/breakpoint-edit.png)
+4. Fill the "Condition" field
+![Breakpoint editing menu](./Images/breakpoint-edit-menu.png)
+5. Add Action button
+![Add action button](./Images/breakpoint-add-action.png)
+You may choose various options (Log message, Debugger Command and else)
+![Action options](./Images/breakpoint-actions-list.png)
